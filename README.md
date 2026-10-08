@@ -1,4 +1,4 @@
-# Hi, I'm Joseph Pennington
+# Hi, I'm JP
 
 IT specialist with hands-on experience in networking, systems administration, and secure infrastructure. This profile holds practical labs and tools that reflect the kind of work I do day to day.
 
