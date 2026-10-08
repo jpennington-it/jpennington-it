@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Joseph Pennington
 
-<!--
-**jpennington-it/jpennington-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT specialist with hands-on experience in networking, systems administration, and secure infrastructure. This profile holds practical labs and tools that reflect the kind of work I do day to day.
 
-Here are some ideas to get you started:
+## Focus areas
+- Network operations and troubleshooting
+- Windows and Linux systems administration
+- Automation and scripting (PowerShell, Bash, Python)
+- Security hardening fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+The pinned repositories below each include a README covering what the project does, how to run it, and what I learned building it.
+
+## Get in touch
+I'm open to fully remote IT roles. The best way to reach me is through the contact details on my resume or LinkedIn.
